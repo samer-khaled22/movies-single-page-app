@@ -1,0 +1,14 @@
+.movieDet{
+    height: 600px;
+}
+
+.movieDet img{
+    height: 100%;
+}
+
+.genres h6{
+    margin-right: 10px;
+    background: rgba(199, 199, 204 , 0.5) ;
+    padding: 7px;
+    border-radius: 10px;
+}
