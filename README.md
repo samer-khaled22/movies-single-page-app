@@ -18,4 +18,5 @@ All data on this website are coming from themoviedb API.
 - Single page app.
 - Responsive to different screen sizes.
 
+
 Note: TV shows can't be added to favorites because it wasn't available in the API used for registered users.
