@@ -7,7 +7,7 @@ A single page website made with ReactJS.
 All data on this website are coming from themoviedb API.
 
 ### Features:
-- Trending movies and TV shows by week or day.
+- Real time trending movies and TV shows by week or day.
 - Movies details and cast.
 - Real time search for movies or TV shows.
 - Registering and creating an account.
