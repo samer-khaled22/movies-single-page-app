@@ -19,4 +19,11 @@ All data on this website are coming from themoviedb API.
 - Responsive to different screen sizes.
 
 
+
+
+### Important Note: 
+Installing dependencies is required before running this project. 
+
+
 Note: TV shows can't be added to favorites because it wasn't available in the API used for registered users.
+
